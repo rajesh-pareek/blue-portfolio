@@ -143,7 +143,7 @@ section .title::after{
 
 /* menu btn styling */
 .menu-btn{
-    color: var(--neon-blue);
+    color: var(--text-color);
     font-size: 23px;
     cursor: pointer;
     display: none;
